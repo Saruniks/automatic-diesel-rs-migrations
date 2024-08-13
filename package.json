@@ -2,7 +2,7 @@
   "name": "automatic-diesel-rs-migrations",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarunikss/automatic-diesel-rs-migrations.git"
+    "url": "https://github.com/saruniks/automatic-diesel-rs-migrations.git"
   },
   "scripts": {
     "build": "npx projen build",

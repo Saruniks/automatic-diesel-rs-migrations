@@ -7,7 +7,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '~5.4.0',
   name: 'automatic-diesel-rs-migrations',
   projenrcTs: true,
-  repositoryUrl: 'https://github.com/sarunikss/automatic-diesel-rs-migrations.git',
+  repositoryUrl: 'https://github.com/saruniks/automatic-diesel-rs-migrations.git',
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
